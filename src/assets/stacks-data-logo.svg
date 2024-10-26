@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <!-- Stack Icon -->
+        <g transform="translate(0,20)">
+            <path d="M0,80 L160,0 L320,80 L160,160 L0,80Z" fill="#2E7D32"/>
+            <path d="M40,100 L160,40 L280,100 L160,160 L40,100Z" fill="#757575"/>
+            <path d="M80,120 L160,80 L240,120 L160,160 L80,120Z" fill="#2E7D32" fill-opacity="0.7"/>
+        </g>
+        
+        <!-- STACKS Text -->
+        <text x="360" y="140" font-family="Arial Black, sans-serif" font-size="120" fill="#000000">STACKS</text>
+        
+        <!-- DATA Text -->
+        <text x="800" y="140" font-family="Arial Black, sans-serif" font-size="120" fill="#2E7D32">DATA</text>
+    </g>
+</svg>
