@@ -8,10 +8,7 @@
             <path d="M80,120 L160,80 L240,120 L160,160 L80,120Z" fill="#2E7D32" fill-opacity="0.7"/>
         </g>
         
-        <!-- STACKS Text -->
-        <text x="360" y="140" font-family="Arial Black, sans-serif" font-size="120" fill="#000000">STACKS</text>
-        
-        <!-- DATA Text -->
-        <text x="800" y="140" font-family="Arial Black, sans-serif" font-size="120" fill="#2E7D32">DATA</text>
+        <!-- @ Symbol -->
+        <text x="580" y="140" font-family="Arial Black, sans-serif" font-size="120" fill="#2E7D32" text-anchor="middle">@</text>
     </g>
 </svg>
